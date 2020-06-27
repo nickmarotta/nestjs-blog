@@ -1,1 +1,1 @@
-https://nextjs.org/learn/basics/data-fetching
+https://nextjs.org/learn/basics/api-routes
